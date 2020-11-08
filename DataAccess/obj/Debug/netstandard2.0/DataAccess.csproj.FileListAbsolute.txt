@@ -1,0 +1,5 @@
+D:\C\.NetCore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\C\.NetCore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\C\.NetCore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\C\.NetCore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\C\.NetCore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
