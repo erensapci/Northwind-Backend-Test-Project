@@ -3,3 +3,12 @@ D:\C\.NetCore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
 D:\C\.NetCore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
 D:\C\.NetCore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
 D:\C\.NetCore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\C\.NetCore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\C\.NetCore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\C\.NetCore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\C\.NetCore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\C\.NetCore\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\C\.NetCore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\C\.NetCore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\C\.NetCore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\C\.NetCore\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

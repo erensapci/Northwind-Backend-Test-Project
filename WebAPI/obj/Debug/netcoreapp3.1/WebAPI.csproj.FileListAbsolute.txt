@@ -8,3 +8,13 @@ D:\C\.NetCore\NorthwindBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInf
 D:\C\.NetCore\NorthwindBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
 D:\C\.NetCore\NorthwindBackend\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
 D:\C\.NetCore\NorthwindBackend\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\C\.NetCore\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+D:\C\.NetCore\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+D:\C\.NetCore\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+D:\C\.NetCore\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+D:\C\.NetCore\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+D:\C\.NetCore\NorthwindBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\C\.NetCore\NorthwindBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\C\.NetCore\NorthwindBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+D:\C\.NetCore\NorthwindBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+D:\C\.NetCore\NorthwindBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache

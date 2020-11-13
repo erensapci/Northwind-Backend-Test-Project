@@ -7,14 +7,15 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "Business/1.0.0": {
+      "DataAccess/1.0.0": {
         "dependencies": {
-          "DataAccess": "1.0.0",
+          "Core": "1.0.0",
           "Entities": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.9",
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
-          "Business.dll": {}
+          "DataAccess.dll": {}
         }
       },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -1249,16 +1250,6 @@
           "Core.dll": {}
         }
       },
-      "DataAccess/1.0.0": {
-        "dependencies": {
-          "Core": "1.0.0",
-          "Entities": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.9"
-        },
-        "runtime": {
-          "DataAccess.dll": {}
-        }
-      },
       "Entities/1.0.0": {
         "dependencies": {
           "Core": "1.0.0"
@@ -1270,7 +1261,7 @@
     }
   },
   "libraries": {
-    "Business/1.0.0": {
+    "DataAccess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -2060,11 +2051,6 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Core/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "DataAccess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
